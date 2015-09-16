@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Artesãos ZipCode ">
     <meta name="author" content="Fúlvio Cezar Canducci Dias">    
-    <title>Artesãos ZipCode</title>
+    <title>Canducci ZipCode</title>
     <link href="{!! asset('css/bootstrap.min.css') !!}" rel="stylesheet">
     <link href="{!! asset('css/starter-template.css') !!}" rel="stylesheet">
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
@@ -33,11 +33,11 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="javascript:;">Artesãos ZipCode</a>
+            <a class="navbar-brand" href="javascript:;">Canducci ZipCode</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="https://github.com/artesaos" target="_blank">Acesse: GitHub Artesãos</a></li>
+                <li><a href="https://github.com/diasfulvio/l5.1" target="_blank">Acesse: GitHub Canducci</a></li>
             </ul>
         </div>
     </div>
